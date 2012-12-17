@@ -1,3 +1,5 @@
 node_modules
 */**/.*.un*
 .*.un*
+*/**/.DS_Store
+.DS_Store
