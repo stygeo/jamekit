@@ -1,0 +1,16 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  height: 100%;
+}
+body {
+  font: 14px "Helvetica Nueu", Helvetica, Arial, sans-serif;
+}
+a {
+  color: #00b7ff;
+}
+#canvas {
+  height: 400px;
+  width: 400px;
+}
